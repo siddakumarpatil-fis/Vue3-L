@@ -41,9 +41,3 @@
                 { id: 3, text: 'About', route: 'about' },
             ];
 </script>
-
-<style>
-i.v-icon.v-icon {
-  color: red;
-} 
-</style>
